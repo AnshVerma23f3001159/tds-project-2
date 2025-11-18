@@ -1,0 +1,9 @@
+Flask
+gunicorn
+playwright
+beautifulsoup4
+requests
+pandas
+pdfplumber
+matplotlib
+python-magic
